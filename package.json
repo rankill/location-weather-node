@@ -1,0 +1,13 @@
+{
+    "name": "05-geolocation",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "devDependencies": {
+        "yargs": "^16.1.0"
+    },
+    "dependencies": {
+        "unirest": "^0.6.0",
+        "axios": "^0.21.0"
+    }
+}
